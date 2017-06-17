@@ -13,8 +13,8 @@ Coding challenges, case studies, interview questions, and more for post-college 
 ---
 
 <p align="center">
-  <img src="https://assets.dice.com/external/images/empLogos/f704817817a76a0531be8b5dfe090bb6.png" width="350"/>
-  <img src="https://preview.ibb.co/e3FDxk/scoutlooklogo.png" width="350"/>
+  <img src="https://assets.dice.com/external/images/empLogos/f704817817a76a0531be8b5dfe090bb6.png" height="250" />
+  <img src="https://preview.ibb.co/e3FDxk/scoutlooklogo.png" height="250" />
 </p>
 
 ## 1. ReachMobi
@@ -30,8 +30,8 @@ Coding challenges, case studies, interview questions, and more for post-college 
 ---
 
 <p align="center">
-  <img src="http://www.aircraftinvestor.com/wp-content/uploads/2016/05/Kroll-Bond-Ratings-Agency-890x395.png" width="350"/>
-  <img src="https://i.gyazo.com/4fa6564e41a8dbb832a1f407f8464a9d.png" width="350"/>
+  <img src="http://www.aircraftinvestor.com/wp-content/uploads/2016/05/Kroll-Bond-Ratings-Agency-890x395.png" height="250"/>
+  <img src="https://i.gyazo.com/4fa6564e41a8dbb832a1f407f8464a9d.png" height="250"/>
 </p>
 
 ## 2. Kroll Bond Rating Agency
