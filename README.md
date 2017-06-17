@@ -22,7 +22,7 @@
 
 ## 1. [ReachMobi](https://reachmobi.com/)
 
-**Discovered through:** [Brett Schade](https://www.linkedin.com/in/brettschade/) from Liberty Jobs
+**Connected by:** [Brett Schade](https://www.linkedin.com/in/brettschade/) from Liberty Jobs
 
 **Position Interviewed For:** Front End .NET Web Developer
 
@@ -45,7 +45,7 @@
 
 ## 2. [Kroll Bond Rating Agency](https://www.krollbondratings.com/)
 
-**Discovered through:** [Brett Schade](https://www.linkedin.com/in/brettschade/) from Liberty Jobs
+**Connected by:** [Brett Schade](https://www.linkedin.com/in/brettschade/) from Liberty Jobs
 
 **Position Interviewed For:** Front End Application Developer
 
