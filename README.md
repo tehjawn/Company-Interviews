@@ -1,6 +1,6 @@
-# Company-Interviews
+# John's Company Interviews
 
-Coding challenges, case studies, interview questions, and more for post-college jobs I've been screened at.
+> Coding challenges, case studies, interview questions, and more for post-college jobs I've been screened at.
 
 ---
 
