@@ -12,6 +12,10 @@ Coding challenges, case studies, interview questions, and more for post-college 
 
 ---
 
+<p align="center">
+  <img src="https://preview.ibb.co/e3FDxk/scoutlooklogo.png" width="350"/>
+</p>
+
 ## 1. ReachMobi
 
 > **About the Company** : ReachMobi is a mobile marketing company based in Kansas City, Missouri with a branch office at the Northern Liberties WeWork space in east Philadelphia.
@@ -23,6 +27,10 @@ Coding challenges, case studies, interview questions, and more for post-college 
 - [Initial Landing Page Design on CodePen](https://codepen.io/tehjawn/pen/gRgpye)
 
 ---
+
+<p align="center">
+  <img src="https://i.gyazo.com/4fa6564e41a8dbb832a1f407f8464a9d.png" width="350"/>
+</p>
 
 ## 2. Kroll Bond Rating Agency
 
