@@ -23,7 +23,9 @@
 ## 1. [ReachMobi](https://reachmobi.com/)
 
 **Discovered through:** [Brett Schade](https://www.linkedin.com/in/brettschade/) from Liberty Jobs
+
 **Position Interviewed For:** Front End .NET Web Developer
+
 **Date:** June 2017
 
 > **About the Company** : [ReachMobi](https://reachmobi.com/) is a mobile marketing company based in Kansas City, Missouri with a branch office at the Northern Liberties WeWork space in east Philadelphia.
@@ -44,7 +46,9 @@
 ## 2. [Kroll Bond Rating Agency](https://www.krollbondratings.com/)
 
 **Discovered through:** [Brett Schade](https://www.linkedin.com/in/brettschade/) from Liberty Jobs
+
 **Position Interviewed For:** Front End Application Developer
+
 **Date:** June 2017
 
 > **About the Company** : [Kroll Bond Rating Agency](https://www.krollbondratings.com/) is an up and coming bond rating agency based in New York City, New York with a branch office in Dresher, PA near Horsham / Willow Grove (north of Philadelphia).
