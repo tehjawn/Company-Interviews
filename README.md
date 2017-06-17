@@ -6,9 +6,9 @@
 
 ## Table of Contents
 
-1. [ReachMobi](#1-reachmobi) : Front-end .NET Developer
+1. [ReachMobi](#1-reachmobi) : Front-end .NET Web Developer
 
-2. [Kroll Bond Rating Agency (KBRA)](#2-kroll-bond-rating-agency) : Front-end Web Developer
+2. [Kroll Bond Rating Agency (KBRA)](#2-kroll-bond-rating-agency) : Front-end Application Developer
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## 1. ReachMobi
 
-**Position Interviewed For:** Front End .NET Developer
+**Position Interviewed For:** Front End .NET Web Developer
 
 > **About the Company** : ReachMobi is a mobile marketing company based in Kansas City, Missouri with a branch office at the Northern Liberties WeWork space in east Philadelphia.
 
@@ -38,7 +38,7 @@
 
 ## 2. Kroll Bond Rating Agency
 
-**Position Interviewed For:** Front End Developer
+**Position Interviewed For:** Front End Application Developer
 
 > **About the Company** : Kroll Bond Rating Agency is an up and coming bond rating agency based in New York City, New York with a branch office in Dresher, PA near Horsham / Willow Grove (north of Philadelphia).
 
