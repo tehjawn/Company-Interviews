@@ -2,6 +2,9 @@
 
 > Coding challenges, case studies, interview questions, and more for post-college jobs I've been screened at.
 
+- [John's Resume](https://drive.google.com/file/d/0B4L2bHrQgHD4SFd1UVp4TDNZZm8/view)
+- [John's LinkedIn](https://www.linkedin.com/in/john-nguyen-10a4938b/)
+
 ---
 
 ## Table of Contents
