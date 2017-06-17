@@ -24,6 +24,8 @@
 
 **Position Interviewed For:** Front End .NET Web Developer
 
+**Date:** June 2017
+
 > **About the Company** : ReachMobi is a mobile marketing company based in Kansas City, Missouri with a branch office at the Northern Liberties WeWork space in east Philadelphia.
 
 > **Challenge** : ReachMobi asked me to do a **case study** involving making a landing page for a weather forecast service using the .NET framework.
@@ -42,6 +44,8 @@
 ## 2. Kroll Bond Rating Agency
 
 **Position Interviewed For:** Front End Application Developer
+
+**Date:** June 2017
 
 > **About the Company** : Kroll Bond Rating Agency is an up and coming bond rating agency based in New York City, New York with a branch office in Dresher, PA near Horsham / Willow Grove (north of Philadelphia).
 
