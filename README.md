@@ -20,13 +20,13 @@
   <img src="https://preview.ibb.co/e3FDxk/scoutlooklogo.png" height="150" />
 </p>
 
-## 1. ReachMobi
+## 1. [ReachMobi](https://reachmobi.com/)
 
 **Position Interviewed For:** Front End .NET Web Developer
 
 **Date:** June 2017
 
-> **About the Company** : ReachMobi is a mobile marketing company based in Kansas City, Missouri with a branch office at the Northern Liberties WeWork space in east Philadelphia.
+> **About the Company** : [ReachMobi](https://reachmobi.com/) is a mobile marketing company based in Kansas City, Missouri with a branch office at the Northern Liberties WeWork space in east Philadelphia.
 
 > **Challenge** : ReachMobi asked me to do a **case study** involving making a landing page for a weather forecast service using the .NET framework.
 
@@ -41,13 +41,13 @@
   <img src="https://i.gyazo.com/4fa6564e41a8dbb832a1f407f8464a9d.png" height="150"/>
 </p>
 
-## 2. Kroll Bond Rating Agency
+## 2. [Kroll Bond Rating Agency](https://www.krollbondratings.com/)
 
 **Position Interviewed For:** Front End Application Developer
 
 **Date:** June 2017
 
-> **About the Company** : Kroll Bond Rating Agency is an up and coming bond rating agency based in New York City, New York with a branch office in Dresher, PA near Horsham / Willow Grove (north of Philadelphia).
+> **About the Company** : [Kroll Bond Rating Agency](https://www.krollbondratings.com/) is an up and coming bond rating agency based in New York City, New York with a branch office in Dresher, PA near Horsham / Willow Grove (north of Philadelphia).
 
 > **Challenge** : KBRA asked me to do a **coding challenge** involving making a simple clock tower bell function using classes.
 
