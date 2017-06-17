@@ -6,9 +6,9 @@ Coding challenges, case studies, interview questions, and more for post-college 
 
 ## Table of Contents
 
-1. [ReachMobi](#ReachMobi) : Front-end .NET Developer
+1. [ReachMobi](#1-ReachMobi) : Front-end .NET Developer
 
-2. [Kroll Bond Rating Agency (KBRA)](#Kroll-Bond-Rating-Agency) : Front-end Web Developer
+2. [Kroll Bond Rating Agency (KBRA)](#2-Kroll-Bond-Rating-Agency) : Front-end Web Developer
 
 ---
 
