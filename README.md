@@ -20,7 +20,7 @@
   <img src="https://preview.ibb.co/e3FDxk/scoutlooklogo.png" height="150" />
 </p>
 
-## 1. [ReachMobi](https://reachmobi.com/)
+## 1. [ReachMobi](https://github.com/tehjawn/reachmobi)
 
 **Connected by:** [Brett Schade](https://www.linkedin.com/in/brettschade/) from Liberty Jobs
 
@@ -43,7 +43,7 @@
   <img src="https://i.gyazo.com/4fa6564e41a8dbb832a1f407f8464a9d.png" height="150"/>
 </p>
 
-## 2. [Kroll Bond Rating Agency](https://www.krollbondratings.com/)
+## 2. [Kroll Bond Rating Agency](https://github.com/tehjawn/kbra)
 
 **Connected by:** [Brett Schade](https://www.linkedin.com/in/brettschade/) from Liberty Jobs
 
@@ -57,6 +57,7 @@
 
 - [View Solution on CodePen](https://codepen.io/tehjawn/pen/KqgoQN)
 - [ReactJS Based Solution on Github](https://github.com/tehjawn/kbra)
+- [View In Person Questions](https://github.com/tehjawn/kbra/blob/master/InPersonQs.md)
 
 ---
 
